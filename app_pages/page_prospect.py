@@ -150,6 +150,6 @@ def DrawInputsWidgets():
         )
     X_live[feature] = st_widget
 
-    # st.write(X_live)
+    st.write(X_live)
 
     return X_live
